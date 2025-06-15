@@ -62,4 +62,21 @@ Me puedes contactar a traves de mi correo electronico que és: pmorilla.dev@gmal
 
 
 
+<h2>📌 Proyectos destacados</h2>
+<h3>🎮 Web de Super Mario</h3>
+Proyecto web inspirado en el universo clásico de Super Mario Bros. Uso de HTML, CSS y JavaScript para crear una experiencia retro con diseño visual pixelado y sonidos personalizados.  
+
+<img src="img/super-mario.jpeg" alt="Captura Super Mario" width="500" height="300">
+🔗 [Ver repositorio](https://github.com/pmorilla-04/super-mario)
+
+<h3> ⛷️ Web de esquí (en desarrollo)</h3>
+Página informativa sobre distintos tipos de esquí. Contiene un slideshow hecho con bootstrap y efecto parallax en la portada. Proyecto aún en desarrollo. 
+
+<img src="img/web-esqui.png" alt="Captura Esquí" width="500" height="300">
+🔗 [Ver repositorio](https://github.com/pmorilla-04/esqui-web)
+
+<h3> 🚴 Web de viajes en bicicleta</h3>
+Sitio web dedicado a rutas ciclistas, con información detallada sobre cada recorrido, incluyendo distancia, desnivel y fotografías propias. El diseño se ha creado con WordPress utilizando el tema Astra y el editor Elementor, para ofrecer una experiencia visual limpia, fácil de navegar y adaptada a dispositivos móviles.
+
+<img src="img/mocup-viatjesBici.png" alt="Captura bici" width="500" height="300">
 
