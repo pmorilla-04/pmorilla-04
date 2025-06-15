@@ -1,4 +1,4 @@
-![Banner](Banner-readme.png)
+![Banner](img/banner-readme.png)
 
 
 <h1>BIENVENIDOS AL PERFIL DE PAU MORILLA 👋</h1>
@@ -47,17 +47,19 @@ Me puedes contactar a traves de mi correo electronico que és: pmorilla.dev@gmal
 
 <h2>🌐 Redes sociales</h2>
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/pmorilla)
-[![GitHub](github.png)](https://github.com/pmorilla)
+<a href="https://www.linkedin.com/in/pmorilla"><img src="img/linkedin.png" alt="linkedin" width="50" height="50"></a>
+<a href="https://github.com/pmorilla"><img src="img/github.png" alt="github" width="50" height="50"></a>
+
 
 <h2>💻 Habilidades Tecnicas</h2>
 
-![HTML5](logohtml.png)
-![CSS3](logocss.png)
-![JS](logojs.png)
-![JS](wordpress.png)
-![Elementor](logo-elementor.png)
-![Canva](logo-canva.png)
+<a><img src="img/logohtml.png" alt="html" width="50" height="50"></a>
+<a><img src="img/logocss.png" alt="css" width="50" height="50"></a>
+<img src="img/logojs.png" alt="js" width="50" height="50">
+<img src="img/wordpres.png" alt="wordpress" width="50" height="50">
+<img src="img/logo-elementor.png" alt="elementor" width="50" height="50">
+<img src="img/logo-canva.png" alt="canva" width="50" height="50">
+
 
 
 
