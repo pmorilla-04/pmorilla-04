@@ -5,9 +5,12 @@
 
 <h2>💫 Sobre Mi</h2> 
 <h2>Hola!! Yo soy Pau Morilla</h2>
-Me llamo Pau Morilla, tengo 21 años y vivo en Folgueroles. Actualmente estoy cursando un Certificado de Profesionalidad en Confección y Publicación de Páginas Web, donde estoy adquiriendo conocimientos prácticos en HTML, CSS, JavaScript y WordPress.
+Me llamo Pau Morilla, tengo 21 años y vivo en Folgueroles.
+Soy estudiante de 1º de Desarrollo de Aplicaciones Web (DAW).
+Me apasiona el mundo de la programación y el desarrollo web. He creado proyectos utilizando HTML, CSS, JavaScript y herramientas como WordPress o Elementor.
+Me gusta aprender cada día y estoy muy motivado por seguir creciendo como futuro desarrollador.
 
-Este próximo septiembre cursaré el Grado Superior en Desarrollo de Aplicaciones Web (DAW), con el objetivo de seguir formándome en programación, bases de datos y desarrollo de aplicaciones web.
+
 
 <h2>🎓 Educacion </h2>
 <ul>
@@ -18,7 +21,7 @@ Inicio en septiembre de 2025</li>
   <li>💻 Certificado de Profesionalidad: Confección y Publicación de Páginas Web
 Enero – Junio 2025</li>
   <li>🛠️ Curso de Impresión 3D y prototipado
-Diseño y fabricación con impresoras de resina, láser y herramientas básicas</li>
+Diseño y fabricación con impresoras de resina, láser y herramientas básicas Febrero - Dicembre 2024</li>
   <li>🏫 Educación Secundaria Obligatoria (ESO)
 Septiembre 2016 – Junio 2020</li>
 </ul>
