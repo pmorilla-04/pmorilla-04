@@ -57,6 +57,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph.svg">
