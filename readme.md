@@ -26,14 +26,6 @@
 
 <p align="left">- Java programming<br>- Problem solving and programming logic<br>- Git and GitHub workflow<br>- Web development fundamentals</p>
 
-<!--START_SECTION:pacman-->
-<!--END_SECTION:pacman-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph.svg">
-</picture>
 
 <h2 align="left">Contact with me</h2>
 
@@ -45,3 +37,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+<!--START_SECTION:pacman-->
+<!--END_SECTION:pacman-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pmorilla-04/pmorilla-04/output/pacman-contribution-graph.svg">
+</picture>
