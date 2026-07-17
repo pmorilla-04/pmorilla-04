@@ -1,42 +1,83 @@
 <img src="img/Banner.png" alt="GitHub Banner" width="100%">
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Pau and I'm a student, from DAW (Web Application Development).</p>
+# Hi 👋 I'm Pau Morilla
 
-<h2 align="left">About me</h2>
+### Web Application Development Student
 
-<p align="left">I'm a Web Development student from Spain currently learning Java and programming fundamentals.<br><br>I enjoy building small projects to improve my problem-solving skills and understand how software works.<br><br>My goal is to become a professional web developer while continuing to learn new technologies.</p>
+🚴 Building PeakFlow 
 
-<h2 align="left">I code with</h2>
+💻 Passionate about Frontend & Web Development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+🌱 Always learning something new
+## 🚀 About Me
 
-<h2 align="left">Currently Learning</h2>
+🎓 Web Application Development Student (DAW)
 
-<p align="left">- Java programming<br>- Problem solving and programming logic<br>- Git and GitHub workflow<br>- Web development fundamentals</p>
+🚀 Currently building PeakFlow, a SaaS for endurance athletes.
+
+📍 Based in Spain
+
+🎯 My goal is to become a Full Stack Developer.
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### ⚙️ Backend
+- Java
 
 
-<h2 align="left">Contact with me</h2>
+### 🗄️ Database
+- MySQL
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pmorilla/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pmorilla.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+
+
+## 🚀 Currently Building
+
+**PeakFlow** – A SaaS platform for endurance athletes.
+
+Current focus:
+- Dashboard
+- Calendar
+- Activities
+- Goals 
+## 📚 Currently Learning
+
+- JavaScript
+- MySQL
+- Spring Boot
+- UI/UX Design## ⭐ Featured Projects
+
+### 🚀 PeakFlow
+A SaaS platform for endurance athletes to plan, track and analyze their training.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🏃 Sports Training Manager
+A web application designed to manage training sessions, athletes and performance.
+
+**Tech:** Java · Swing · XML · MYSQL
+
+---
+
+### 💼 Personal Portfolio
+A responsive portfolio showcasing my projects, skills and learning journey.
+
+**Tech:** HTML • CSS • JavaScript## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmorilla) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pmorilla-04.github.io/portafolioV3/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmorilla.dev@gmail.com)
 
 <!--START_SECTION:pacman-->
 <!--END_SECTION:pacman-->
