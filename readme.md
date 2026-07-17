@@ -73,7 +73,9 @@ A web application designed to manage training sessions, athletes and performance
 ### 💼 Personal Portfolio
 A responsive portfolio showcasing my projects, skills and learning journey.
 
-**Tech:** HTML • CSS • JavaScript## 📫 Connect with Me
+**Tech:** HTML • CSS • JavaScript## 
+
+📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmorilla) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pmorilla-04.github.io/portafolioV3/)
