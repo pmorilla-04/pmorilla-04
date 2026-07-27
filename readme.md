@@ -54,7 +54,9 @@ Current focus:
 - JavaScript
 - MySQL
 - Spring Boot
-- UI/UX Design## ⭐ Featured Projects
+- UI/UX Design
+
+## ⭐ Featured Projects
 
 ### 🚀 PeakFlow
 A SaaS platform for endurance athletes to plan, track and analyze their training.
